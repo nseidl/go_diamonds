@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html class="contact page"
+>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="keywords" content"">
+	<meta name="author" content="">
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1' name='viewport' />
+
+	<title>CS:GO Diamonds</title>
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic,700,700italic' rel='stylesheet' type='text/css'>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+	<link rel="shortcut icon" type="image/png" ref="/assets/img/favicon/favicon.ico">
+	<link rel="manifest" href="/assets/img/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/assets/img/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+		<link media="all" type="text/css" rel="stylesheet" href="/build/assets/css/vendor-7e86c23f7e.css">
+	<link media="all" type="text/css" rel="stylesheet" href="/build/assets/css/app-730204ede8.css">
+	
+	<!--<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1 minimal-ui" />-->
+	<link rel="stylesheet" href="/spinner/css/style.css" />
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js" charset="utf-8"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.6/socket.io.min.js" charset="utf-8"></script>
+	<script src="/spinner/js/spinnergame.min.js"></script>
+
+		<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
+		<script>var googleRecaptchaKey = '6LfDYyITAAAAAKnd_KIWQFgWJ7mL1a1iHqfOP9ro' </script>
+
+	</head>
+
+<body >
+
+	
+<div id="slot-rolls" class="page">
+
+	<header id="header">
+		<div class="header-top">
+	<div class="header-social">
+		<a target="_blank" href="http://facebook.com/CSGODiamonds"><i class="fa fa-facebook-square"></i> <span>Facebook</span></a>
+		<a target="_blank" href="http://twitter.com/CSGO_Diamonds"><i class="fa fa-twitter"></i> <span>Twitter</span></a>
+		<a target="_blank" href="http://steamcommunity.com/groups/CSGODiamondsGroup"><i class="fa fa-steam"></i> <span>Steam</span></a>
+		<a target="_blank" href="https://opskins.com"><div id="opskins"></div><span>OP Skins</span></a>
+	</div>
+
+	<div class="header-links">
+					<a href="/">Home</a>
+				<a href="http://csgodiamonds.com/fair">Provably Fair</a>
+		<a href="http://csgodiamonds.com/terms">Terms of Service</a>
+		<a href="http://csgodiamonds.com/faq">FAQ</a>
+		<a href="http://csgodiamonds.com/contact">Contact</a>
+			</div>
+</div>	</header>
+
+	<div id="page-content">
+		<h1>Seed #19 Rolls&nbsp;&nbsp;
+			<small>2016-06-18 - 2016-06-19</small>
+		</h1>
+		<br/>
+		<div class="modal-row">
+			<table class="table">
+				<thead>
+				<tr>
+					<th>Time</th>
+					<th>Round</th>
+											<th>0</th>
+											<th>1</th>
+											<th>2</th>
+											<th>3</th>
+											<th>4</th>
+											<th>5</th>
+											<th>6</th>
+											<th>7</th>
+											<th>8</th>
+											<th>9</th>
+									</tr>
+				</thead>
+				<tbody>
+								<tr>
+					<td>2016-06-18 00:00:00</td>
+					<td>4139_</td>
+																																		<td id="41390" class="slot-result slot-result-under">
+								<!--41390-->
+								23.53
+							</td>
+																								<td id="41391" class="slot-result slot-result-over">
+								<!--41391-->
+								56.50
+							</td>
+																								<td id="41392" class="slot-result slot-result-over">
+								<!--41392-->
+								74.47
+							</td>
+																								<td id="41393" class="slot-result slot-result-over">
+								<!--41393-->
+								89.35
+							</td>
+																								<td id="41394" class="slot-result slot-result-under">
+								<!--41394-->
+								19.49
+							</td>
+																								<td id="41395" class="slot-result slot-result-over">
+								<!--41395-->
+								99.82
+							</td>
+																								<td id="41396" class="slot-result slot-result-under">
+								<!--41396-->
+								32.70
+							</td>
+																								<td id="41397" class="slot-result slot-result-over">
+								<!--41397-->
+								90.41
+							</td>
+																								<td id="41398" class="slot-result slot-result-over">
+								<!--41398-->
+								64.31
+							</td>
+																								<td id="41399" class="slot-result slot-result-mid">
+								<!--41399-->
+								51.25
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-18 00:06:00</td>
+					<td>4140_</td>
+																							<td id="41400" class="slot-result slot-result-over">
+								<!--41400-->
+								97.27
+							</td>
+																								<td id="41401" class="slot-result slot-result-under">
+								<!--41401-->
+								25.46
+							</td>
+																								<td id="41402" class="slot-result slot-result-over">
+								<!--41402-->
+								71.93
+							</td>
+																								<td id="41403" class="slot-result slot-result-over">
+								<!--41403-->
+								66.14
+							</td>
+																								<td id="41404" class="slot-result slot-result-over">
+								<!--41404-->
+								55.47
+							</td>
+																								<td id="41405" class="slot-result slot-result-over">
+								<!--41405-->
+								73.82
+							</td>
+																								<td id="41406" class="slot-result slot-result-under">
+								<!--41406-->
+								35.81
+							</td>
+																								<td id="41407" class="slot-result slot-result-under">
+								<!--41407-->
+								46.59
+							</td>
+																								<td id="41408" class="slot-result slot-result-under">
+								<!--41408-->
+								14.97
+							</td>
+																								<td id="41409" class="slot-result slot-result-over">
+								<!--41409-->
+								52.65
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-18 00:12:00</td>
+					<td>4141_</td>
+																							<td id="41410" class="slot-result slot-result-under">
+								<!--41410-->
+								9.53
+							</td>
+																								<td id="41411" class="slot-result slot-result-over">
+								<!--41411-->
+								71.53
+							</td>
+																								<td id="41412" class="slot-result slot-result-under">
+								<!--41412-->
+								20.43
+							</td>
+																								<td id="41413" class="slot-result slot-result-over">
+								<!--41413-->
+								60.15
+							</td>
+																								<td id="41414" class="slot-result slot-result-over">
+								<!--41414-->
+								86.38
+							</td>
+																								<td id="41415" class="slot-result slot-result-under">
+								<!--41415-->
+								26.15
+							</td>
+																								<td id="41416" class="slot-result slot-result-over">
+								<!--41416-->
+								59.13
+							</td>
+																								<td id="41417" class="slot-result slot-result-over">
+								<!--41417-->
+								71.06
+							</td>
+																								<td id="41418" class="slot-result slot-result-mid">
+								<!--41418-->
+								51.40
+							</td>
+																								<td id="41419" class="slot-result slot-result-under">
+								<!--41419-->
+								21.55
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-18 00:18:00</td>
+					<td>4142_</td>
+																							<td id="41420" class="slot-result slot-result-under">
+								<!--41420-->
+								19.57
+							</td>
+																								<td id="41421" class="slot-result slot-result-over">
+								<!--41421-->
+								88.62
+							</td>
+																								<td id="41422" class="slot-result slot-result-under">
+								<!--41422-->
+								18.07
+							</td>
+																								<td id="41423" class="slot-result slot-result-over">
+								<!--41423-->
+								85.55
+							</td>
+																								<td id="41424" class="slot-result slot-result-over">
+								<!--41424-->
+								55.35
+							</td>
+																								<td id="41425" class="slot-result slot-result-under">
+								<!--41425-->
+								38.65
+							</td>
+																								<td id="41426" class="slot-result slot-result-over">
+								<!--41426-->
+								54.88
+							</td>
+																								<td id="41427" class="slot-result slot-result-under">
+								<!--41427-->
+								16.44
+							</td>
+																								<td id="41428" class="slot-result slot-result-over">
+								<!--41428-->
+								63.28
+							</td>
+																								<td id="41429" class="slot-result slot-result-under">
+								<!--41429-->
+								46.06
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-18 00:24:00</td>
+					<td>4143_</td>
+																							<td id="41430" class="slot-result slot-result-over">
+								<!--41430-->
+								59.98
+							</td>
+																								<td id="41431" class="slot-result slot-result-over">
+								<!--41431-->
+								91.78
+							</td>
+																								<td id="41432" class="slot-result slot-result-over">
+								<!--41432-->
+								64.54
+							</td>
+																								<td id="41433" class="slot-result slot-result-over">
+								<!--41433-->
+								84.33
+							</td>
+																								<td id="41434" class="slot-result slot-result-over">
+								<!--41434-->
+								81.29
+							</td>
+																								<td id="41435" class="slot-result slot-result-over">
+								<!--41435-->
+								54.82
+							</td>
+																								<td id="41436" class="slot-result slot-result-over">
+								<!--41436-->
+								93.27
+							</td>
+																								<td id="41437" class="slot-result slot-result-over">
+								<!--41437-->
+								69.19
+							</td>
+																								<td id="41438" class="slot-result slot-result-under">
+								<!--41438-->
+								6.33
+							</td>
+																								<td id="41439" class="slot-result slot-result-over">
+								<!--41439-->
+								62.80
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-18 00:30:00</td>
+					<td>4144_</td>
+																							<td id="41440" class="slot-result slot-result-under">
+								<!--41440-->
+								20.66
+							</td>
+																								<td id="41441" class="slot-result slot-result-under">
+								<!--41441-->
+								35.04
+							</td>
+																								<td id="41442" class="slot-result slot-result-over">
+								<!--41442-->
+								56.00
+							</td>
+																								<td id="41443" class="slot-result slot-result-over">
+								<!--41443-->
+								91.53
+							</td>
+																																																																																	</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+
+	<div id="footer">
+	<a href="#" id="footer-logo"></a>
+
+	<div id="footer-links">
+					<a href="/">Home</a>
+				<a href="http://csgodiamonds.com/fair">Provably Fair</a>
+		<a href="http://csgodiamonds.com/terms">Terms of Service</a>
+		<a href="http://csgodiamonds.com/faq">FAQ</a>
+		<a href="http://csgodiamonds.com/contact">Contact</a>
+	</div>
+</div></div>
+
+
+	
+	</body>
+
+</html>

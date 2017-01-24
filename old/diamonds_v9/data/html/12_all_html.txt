@@ -1,0 +1,1488 @@
+<!DOCTYPE html>
+<html class="contact page"
+>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="keywords" content"">
+	<meta name="author" content="">
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1' name='viewport' />
+
+	<title>CS:GO Diamonds</title>
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic,700,700italic' rel='stylesheet' type='text/css'>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+	<link rel="shortcut icon" type="image/png" ref="/assets/img/favicon/favicon.ico">
+	<link rel="manifest" href="/assets/img/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/assets/img/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+		<link media="all" type="text/css" rel="stylesheet" href="/build/assets/css/vendor-7e86c23f7e.css">
+	<link media="all" type="text/css" rel="stylesheet" href="/build/assets/css/app-d14efb1100.css">
+	
+	<!--<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1 minimal-ui" />-->
+	<link rel="stylesheet" href="/spinner/css/style.css" />
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js" charset="utf-8"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.6/socket.io.min.js" charset="utf-8"></script>
+	<script src="/spinner/js/spinnergame.min.js"></script>
+
+	
+</head>
+
+<body >
+
+	
+<div id="slot-rolls" class="page">
+
+	<header id="header">
+		<div class="header-top">
+	<div class="header-social">
+		<a target="_blank" href="http://facebook.com/CSGODiamonds"><i class="fa fa-facebook-square"></i> <span>Facebook</span></a>
+		<a target="_blank" href="http://twitter.com/CSGO_Diamonds"><i class="fa fa-twitter"></i> <span>Twitter</span></a>
+		<a target="_blank" href="http://steamcommunity.com/groups/CSGODiamondsGroup"><i class="fa fa-steam"></i> <span>Steam</span></a>
+		<a target="_blank" href="https://opskins.com"><div id="opskins"></div><span>OP Skins</span></a>
+	</div>
+
+	<div class="header-links">
+					<a href="/">Home</a>
+				<a href="http://csgodiamonds.com/fair">Provably Fair</a>
+		<a href="http://csgodiamonds.com/terms">Terms of Service</a>
+		<a href="http://csgodiamonds.com/faq">FAQ</a>
+		<a href="http://csgodiamonds.com/contact">Contact</a>
+			</div>
+</div>	</header>
+
+	<div id="page-content">
+		<h1>Seed #12 Rolls&nbsp;&nbsp;
+			<small>2016-06-11 - 2016-06-12</small>
+		</h1>
+		<br/>
+		<div class="modal-row">
+			<table class="table">
+				<thead>
+				<tr>
+					<th>Time</th>
+					<th>Round</th>
+											<th>0</th>
+											<th>1</th>
+											<th>2</th>
+											<th>3</th>
+											<th>4</th>
+											<th>5</th>
+											<th>6</th>
+											<th>7</th>
+											<th>8</th>
+											<th>9</th>
+									</tr>
+				</thead>
+				<tbody>
+								<tr>
+					<td>2016-06-11 00:00:00</td>
+					<td>2459_</td>
+																																		<td id="24590" class="slot-result slot-result-under">
+								<!--24590-->
+								5.32
+							</td>
+																								<td id="24591" class="slot-result slot-result-under">
+								<!--24591-->
+								27.77
+							</td>
+																								<td id="24592" class="slot-result slot-result-over">
+								<!--24592-->
+								88.93
+							</td>
+																								<td id="24593" class="slot-result slot-result-under">
+								<!--24593-->
+								11.35
+							</td>
+																								<td id="24594" class="slot-result slot-result-under">
+								<!--24594-->
+								28.59
+							</td>
+																								<td id="24595" class="slot-result slot-result-mid">
+								<!--24595-->
+								48.95
+							</td>
+																								<td id="24596" class="slot-result slot-result-over">
+								<!--24596-->
+								60.12
+							</td>
+																								<td id="24597" class="slot-result slot-result-under">
+								<!--24597-->
+								21.77
+							</td>
+																								<td id="24598" class="slot-result slot-result-under">
+								<!--24598-->
+								1.38
+							</td>
+																								<td id="24599" class="slot-result slot-result-over">
+								<!--24599-->
+								63.86
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:06:00</td>
+					<td>2460_</td>
+																							<td id="24600" class="slot-result slot-result-mid">
+								<!--24600-->
+								51.09
+							</td>
+																								<td id="24601" class="slot-result slot-result-under">
+								<!--24601-->
+								31.44
+							</td>
+																								<td id="24602" class="slot-result slot-result-under">
+								<!--24602-->
+								4.73
+							</td>
+																								<td id="24603" class="slot-result slot-result-over">
+								<!--24603-->
+								60.13
+							</td>
+																								<td id="24604" class="slot-result slot-result-under">
+								<!--24604-->
+								3.27
+							</td>
+																								<td id="24605" class="slot-result slot-result-over">
+								<!--24605-->
+								58.21
+							</td>
+																								<td id="24606" class="slot-result slot-result-over">
+								<!--24606-->
+								84.30
+							</td>
+																								<td id="24607" class="slot-result slot-result-over">
+								<!--24607-->
+								78.78
+							</td>
+																								<td id="24608" class="slot-result slot-result-under">
+								<!--24608-->
+								19.09
+							</td>
+																								<td id="24609" class="slot-result slot-result-over">
+								<!--24609-->
+								83.30
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:12:00</td>
+					<td>2461_</td>
+																							<td id="24610" class="slot-result slot-result-over">
+								<!--24610-->
+								90.27
+							</td>
+																								<td id="24611" class="slot-result slot-result-over">
+								<!--24611-->
+								57.69
+							</td>
+																								<td id="24612" class="slot-result slot-result-under">
+								<!--24612-->
+								24.74
+							</td>
+																								<td id="24613" class="slot-result slot-result-over">
+								<!--24613-->
+								78.67
+							</td>
+																								<td id="24614" class="slot-result slot-result-under">
+								<!--24614-->
+								31.03
+							</td>
+																								<td id="24615" class="slot-result slot-result-over">
+								<!--24615-->
+								94.06
+							</td>
+																								<td id="24616" class="slot-result slot-result-mid">
+								<!--24616-->
+								48.39
+							</td>
+																								<td id="24617" class="slot-result slot-result-wildcard">
+								<!--24617-->
+								0.33
+							</td>
+																								<td id="24618" class="slot-result slot-result-over">
+								<!--24618-->
+								90.57
+							</td>
+																								<td id="24619" class="slot-result slot-result-over">
+								<!--24619-->
+								59.83
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:18:00</td>
+					<td>2462_</td>
+																							<td id="24620" class="slot-result slot-result-under">
+								<!--24620-->
+								34.23
+							</td>
+																								<td id="24621" class="slot-result slot-result-over">
+								<!--24621-->
+								83.76
+							</td>
+																								<td id="24622" class="slot-result slot-result-under">
+								<!--24622-->
+								26.34
+							</td>
+																								<td id="24623" class="slot-result slot-result-under">
+								<!--24623-->
+								30.95
+							</td>
+																								<td id="24624" class="slot-result slot-result-under">
+								<!--24624-->
+								22.57
+							</td>
+																								<td id="24625" class="slot-result slot-result-under">
+								<!--24625-->
+								31.77
+							</td>
+																								<td id="24626" class="slot-result slot-result-under">
+								<!--24626-->
+								25.35
+							</td>
+																								<td id="24627" class="slot-result slot-result-over">
+								<!--24627-->
+								69.49
+							</td>
+																								<td id="24628" class="slot-result slot-result-under">
+								<!--24628-->
+								7.68
+							</td>
+																								<td id="24629" class="slot-result slot-result-under">
+								<!--24629-->
+								36.89
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:24:00</td>
+					<td>2463_</td>
+																							<td id="24630" class="slot-result slot-result-over">
+								<!--24630-->
+								85.19
+							</td>
+																								<td id="24631" class="slot-result slot-result-over">
+								<!--24631-->
+								63.66
+							</td>
+																								<td id="24632" class="slot-result slot-result-under">
+								<!--24632-->
+								46.72
+							</td>
+																								<td id="24633" class="slot-result slot-result-over">
+								<!--24633-->
+								89.29
+							</td>
+																								<td id="24634" class="slot-result slot-result-over">
+								<!--24634-->
+								73.72
+							</td>
+																								<td id="24635" class="slot-result slot-result-under">
+								<!--24635-->
+								45.74
+							</td>
+																								<td id="24636" class="slot-result slot-result-under">
+								<!--24636-->
+								27.93
+							</td>
+																								<td id="24637" class="slot-result slot-result-under">
+								<!--24637-->
+								36.95
+							</td>
+																								<td id="24638" class="slot-result slot-result-over">
+								<!--24638-->
+								54.33
+							</td>
+																								<td id="24639" class="slot-result slot-result-under">
+								<!--24639-->
+								41.93
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:30:00</td>
+					<td>2464_</td>
+																							<td id="24640" class="slot-result slot-result-under">
+								<!--24640-->
+								9.79
+							</td>
+																								<td id="24641" class="slot-result slot-result-mid">
+								<!--24641-->
+								50.73
+							</td>
+																								<td id="24642" class="slot-result slot-result-under">
+								<!--24642-->
+								14.11
+							</td>
+																								<td id="24643" class="slot-result slot-result-over">
+								<!--24643-->
+								64.98
+							</td>
+																								<td id="24644" class="slot-result slot-result-under">
+								<!--24644-->
+								20.89
+							</td>
+																								<td id="24645" class="slot-result slot-result-over">
+								<!--24645-->
+								96.05
+							</td>
+																								<td id="24646" class="slot-result slot-result-under">
+								<!--24646-->
+								32.49
+							</td>
+																								<td id="24647" class="slot-result slot-result-over">
+								<!--24647-->
+								71.97
+							</td>
+																								<td id="24648" class="slot-result slot-result-under">
+								<!--24648-->
+								26.83
+							</td>
+																								<td id="24649" class="slot-result slot-result-under">
+								<!--24649-->
+								32.11
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:36:00</td>
+					<td>2465_</td>
+																							<td id="24650" class="slot-result slot-result-under">
+								<!--24650-->
+								9.66
+							</td>
+																								<td id="24651" class="slot-result slot-result-under">
+								<!--24651-->
+								34.73
+							</td>
+																								<td id="24652" class="slot-result slot-result-under">
+								<!--24652-->
+								15.66
+							</td>
+																								<td id="24653" class="slot-result slot-result-under">
+								<!--24653-->
+								22.80
+							</td>
+																								<td id="24654" class="slot-result slot-result-over">
+								<!--24654-->
+								73.63
+							</td>
+																								<td id="24655" class="slot-result slot-result-mid">
+								<!--24655-->
+								52.08
+							</td>
+																								<td id="24656" class="slot-result slot-result-over">
+								<!--24656-->
+								70.91
+							</td>
+																								<td id="24657" class="slot-result slot-result-under">
+								<!--24657-->
+								1.63
+							</td>
+																								<td id="24658" class="slot-result slot-result-over">
+								<!--24658-->
+								57.45
+							</td>
+																								<td id="24659" class="slot-result slot-result-under">
+								<!--24659-->
+								23.93
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:42:00</td>
+					<td>2466_</td>
+																							<td id="24660" class="slot-result slot-result-under">
+								<!--24660-->
+								13.28
+							</td>
+																								<td id="24661" class="slot-result slot-result-under">
+								<!--24661-->
+								13.22
+							</td>
+																								<td id="24662" class="slot-result slot-result-over">
+								<!--24662-->
+								78.40
+							</td>
+																								<td id="24663" class="slot-result slot-result-under">
+								<!--24663-->
+								12.97
+							</td>
+																								<td id="24664" class="slot-result slot-result-over">
+								<!--24664-->
+								58.81
+							</td>
+																								<td id="24665" class="slot-result slot-result-under">
+								<!--24665-->
+								26.00
+							</td>
+																								<td id="24666" class="slot-result slot-result-over">
+								<!--24666-->
+								66.72
+							</td>
+																								<td id="24667" class="slot-result slot-result-under">
+								<!--24667-->
+								22.25
+							</td>
+																								<td id="24668" class="slot-result slot-result-over">
+								<!--24668-->
+								66.27
+							</td>
+																								<td id="24669" class="slot-result slot-result-over">
+								<!--24669-->
+								83.67
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:48:00</td>
+					<td>2467_</td>
+																							<td id="24670" class="slot-result slot-result-over">
+								<!--24670-->
+								75.87
+							</td>
+																								<td id="24671" class="slot-result slot-result-under">
+								<!--24671-->
+								40.38
+							</td>
+																								<td id="24672" class="slot-result slot-result-over">
+								<!--24672-->
+								78.33
+							</td>
+																								<td id="24673" class="slot-result slot-result-under">
+								<!--24673-->
+								13.94
+							</td>
+																								<td id="24674" class="slot-result slot-result-over">
+								<!--24674-->
+								66.23
+							</td>
+																								<td id="24675" class="slot-result slot-result-over">
+								<!--24675-->
+								79.02
+							</td>
+																								<td id="24676" class="slot-result slot-result-under">
+								<!--24676-->
+								41.24
+							</td>
+																								<td id="24677" class="slot-result slot-result-mid">
+								<!--24677-->
+								49.88
+							</td>
+																								<td id="24678" class="slot-result slot-result-over">
+								<!--24678-->
+								93.87
+							</td>
+																								<td id="24679" class="slot-result slot-result-under">
+								<!--24679-->
+								22.25
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 00:54:00</td>
+					<td>2468_</td>
+																							<td id="24680" class="slot-result slot-result-under">
+								<!--24680-->
+								4.05
+							</td>
+																								<td id="24681" class="slot-result slot-result-over">
+								<!--24681-->
+								55.11
+							</td>
+																								<td id="24682" class="slot-result slot-result-under">
+								<!--24682-->
+								45.92
+							</td>
+																								<td id="24683" class="slot-result slot-result-over">
+								<!--24683-->
+								70.19
+							</td>
+																								<td id="24684" class="slot-result slot-result-under">
+								<!--24684-->
+								38.70
+							</td>
+																								<td id="24685" class="slot-result slot-result-under">
+								<!--24685-->
+								38.92
+							</td>
+																								<td id="24686" class="slot-result slot-result-under">
+								<!--24686-->
+								22.69
+							</td>
+																								<td id="24687" class="slot-result slot-result-over">
+								<!--24687-->
+								78.58
+							</td>
+																								<td id="24688" class="slot-result slot-result-under">
+								<!--24688-->
+								16.69
+							</td>
+																								<td id="24689" class="slot-result slot-result-under">
+								<!--24689-->
+								31.58
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:00:00</td>
+					<td>2469_</td>
+																							<td id="24690" class="slot-result slot-result-mid">
+								<!--24690-->
+								51.59
+							</td>
+																								<td id="24691" class="slot-result slot-result-under">
+								<!--24691-->
+								39.05
+							</td>
+																								<td id="24692" class="slot-result slot-result-over">
+								<!--24692-->
+								77.11
+							</td>
+																								<td id="24693" class="slot-result slot-result-under">
+								<!--24693-->
+								21.42
+							</td>
+																								<td id="24694" class="slot-result slot-result-over">
+								<!--24694-->
+								73.47
+							</td>
+																								<td id="24695" class="slot-result slot-result-over">
+								<!--24695-->
+								68.80
+							</td>
+																								<td id="24696" class="slot-result slot-result-under">
+								<!--24696-->
+								30.48
+							</td>
+																								<td id="24697" class="slot-result slot-result-over">
+								<!--24697-->
+								58.77
+							</td>
+																								<td id="24698" class="slot-result slot-result-over">
+								<!--24698-->
+								61.85
+							</td>
+																								<td id="24699" class="slot-result slot-result-under">
+								<!--24699-->
+								16.65
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:06:00</td>
+					<td>2470_</td>
+																							<td id="24700" class="slot-result slot-result-over">
+								<!--24700-->
+								79.61
+							</td>
+																								<td id="24701" class="slot-result slot-result-over">
+								<!--24701-->
+								65.35
+							</td>
+																								<td id="24702" class="slot-result slot-result-over">
+								<!--24702-->
+								71.15
+							</td>
+																								<td id="24703" class="slot-result slot-result-mid">
+								<!--24703-->
+								50.36
+							</td>
+																								<td id="24704" class="slot-result slot-result-mid">
+								<!--24704-->
+								51.14
+							</td>
+																								<td id="24705" class="slot-result slot-result-over">
+								<!--24705-->
+								96.89
+							</td>
+																								<td id="24706" class="slot-result slot-result-under">
+								<!--24706-->
+								15.47
+							</td>
+																								<td id="24707" class="slot-result slot-result-over">
+								<!--24707-->
+								67.41
+							</td>
+																								<td id="24708" class="slot-result slot-result-under">
+								<!--24708-->
+								20.31
+							</td>
+																								<td id="24709" class="slot-result slot-result-over">
+								<!--24709-->
+								54.25
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:12:00</td>
+					<td>2471_</td>
+																							<td id="24710" class="slot-result slot-result-under">
+								<!--24710-->
+								16.02
+							</td>
+																								<td id="24711" class="slot-result slot-result-over">
+								<!--24711-->
+								56.62
+							</td>
+																								<td id="24712" class="slot-result slot-result-under">
+								<!--24712-->
+								41.04
+							</td>
+																								<td id="24713" class="slot-result slot-result-over">
+								<!--24713-->
+								74.78
+							</td>
+																								<td id="24714" class="slot-result slot-result-over">
+								<!--24714-->
+								85.94
+							</td>
+																								<td id="24715" class="slot-result slot-result-over">
+								<!--24715-->
+								55.96
+							</td>
+																								<td id="24716" class="slot-result slot-result-under">
+								<!--24716-->
+								36.55
+							</td>
+																								<td id="24717" class="slot-result slot-result-mid">
+								<!--24717-->
+								48.31
+							</td>
+																								<td id="24718" class="slot-result slot-result-over">
+								<!--24718-->
+								97.90
+							</td>
+																								<td id="24719" class="slot-result slot-result-under">
+								<!--24719-->
+								9.10
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:18:00</td>
+					<td>2472_</td>
+																							<td id="24720" class="slot-result slot-result-under">
+								<!--24720-->
+								7.87
+							</td>
+																								<td id="24721" class="slot-result slot-result-under">
+								<!--24721-->
+								5.66
+							</td>
+																								<td id="24722" class="slot-result slot-result-over">
+								<!--24722-->
+								78.92
+							</td>
+																								<td id="24723" class="slot-result slot-result-over">
+								<!--24723-->
+								72.25
+							</td>
+																								<td id="24724" class="slot-result slot-result-over">
+								<!--24724-->
+								92.21
+							</td>
+																								<td id="24725" class="slot-result slot-result-over">
+								<!--24725-->
+								56.78
+							</td>
+																								<td id="24726" class="slot-result slot-result-over">
+								<!--24726-->
+								94.21
+							</td>
+																								<td id="24727" class="slot-result slot-result-over">
+								<!--24727-->
+								88.93
+							</td>
+																								<td id="24728" class="slot-result slot-result-over">
+								<!--24728-->
+								55.18
+							</td>
+																								<td id="24729" class="slot-result slot-result-over">
+								<!--24729-->
+								73.70
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:24:00</td>
+					<td>2473_</td>
+																							<td id="24730" class="slot-result slot-result-over">
+								<!--24730-->
+								98.28
+							</td>
+																								<td id="24731" class="slot-result slot-result-under">
+								<!--24731-->
+								13.97
+							</td>
+																								<td id="24732" class="slot-result slot-result-under">
+								<!--24732-->
+								39.74
+							</td>
+																								<td id="24733" class="slot-result slot-result-over">
+								<!--24733-->
+								95.09
+							</td>
+																								<td id="24734" class="slot-result slot-result-under">
+								<!--24734-->
+								37.74
+							</td>
+																								<td id="24735" class="slot-result slot-result-under">
+								<!--24735-->
+								6.33
+							</td>
+																								<td id="24736" class="slot-result slot-result-mid">
+								<!--24736-->
+								48.08
+							</td>
+																								<td id="24737" class="slot-result slot-result-under">
+								<!--24737-->
+								11.35
+							</td>
+																								<td id="24738" class="slot-result slot-result-under">
+								<!--24738-->
+								37.19
+							</td>
+																								<td id="24739" class="slot-result slot-result-under">
+								<!--24739-->
+								27.73
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:30:00</td>
+					<td>2474_</td>
+																							<td id="24740" class="slot-result slot-result-over">
+								<!--24740-->
+								57.86
+							</td>
+																								<td id="24741" class="slot-result slot-result-under">
+								<!--24741-->
+								2.00
+							</td>
+																								<td id="24742" class="slot-result slot-result-under">
+								<!--24742-->
+								25.86
+							</td>
+																								<td id="24743" class="slot-result slot-result-under">
+								<!--24743-->
+								22.61
+							</td>
+																								<td id="24744" class="slot-result slot-result-over">
+								<!--24744-->
+								92.96
+							</td>
+																								<td id="24745" class="slot-result slot-result-over">
+								<!--24745-->
+								71.46
+							</td>
+																								<td id="24746" class="slot-result slot-result-over">
+								<!--24746-->
+								98.78
+							</td>
+																								<td id="24747" class="slot-result slot-result-under">
+								<!--24747-->
+								36.90
+							</td>
+																								<td id="24748" class="slot-result slot-result-under">
+								<!--24748-->
+								6.27
+							</td>
+																								<td id="24749" class="slot-result slot-result-under">
+								<!--24749-->
+								1.17
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:36:00</td>
+					<td>2475_</td>
+																							<td id="24750" class="slot-result slot-result-under">
+								<!--24750-->
+								42.59
+							</td>
+																								<td id="24751" class="slot-result slot-result-over">
+								<!--24751-->
+								90.37
+							</td>
+																								<td id="24752" class="slot-result slot-result-over">
+								<!--24752-->
+								86.20
+							</td>
+																								<td id="24753" class="slot-result slot-result-over">
+								<!--24753-->
+								92.88
+							</td>
+																								<td id="24754" class="slot-result slot-result-under">
+								<!--24754-->
+								20.49
+							</td>
+																								<td id="24755" class="slot-result slot-result-over">
+								<!--24755-->
+								92.06
+							</td>
+																								<td id="24756" class="slot-result slot-result-over">
+								<!--24756-->
+								69.76
+							</td>
+																								<td id="24757" class="slot-result slot-result-over">
+								<!--24757-->
+								69.63
+							</td>
+																								<td id="24758" class="slot-result slot-result-under">
+								<!--24758-->
+								11.64
+							</td>
+																								<td id="24759" class="slot-result slot-result-over">
+								<!--24759-->
+								61.17
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:42:00</td>
+					<td>2476_</td>
+																							<td id="24760" class="slot-result slot-result-under">
+								<!--24760-->
+								42.76
+							</td>
+																								<td id="24761" class="slot-result slot-result-under">
+								<!--24761-->
+								35.81
+							</td>
+																								<td id="24762" class="slot-result slot-result-over">
+								<!--24762-->
+								60.54
+							</td>
+																								<td id="24763" class="slot-result slot-result-under">
+								<!--24763-->
+								37.14
+							</td>
+																								<td id="24764" class="slot-result slot-result-under">
+								<!--24764-->
+								19.58
+							</td>
+																								<td id="24765" class="slot-result slot-result-under">
+								<!--24765-->
+								34.33
+							</td>
+																								<td id="24766" class="slot-result slot-result-over">
+								<!--24766-->
+								72.55
+							</td>
+																								<td id="24767" class="slot-result slot-result-under">
+								<!--24767-->
+								9.80
+							</td>
+																								<td id="24768" class="slot-result slot-result-mid">
+								<!--24768-->
+								50.21
+							</td>
+																								<td id="24769" class="slot-result slot-result-over">
+								<!--24769-->
+								81.19
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:48:00</td>
+					<td>2477_</td>
+																							<td id="24770" class="slot-result slot-result-over">
+								<!--24770-->
+								52.86
+							</td>
+																								<td id="24771" class="slot-result slot-result-under">
+								<!--24771-->
+								31.98
+							</td>
+																								<td id="24772" class="slot-result slot-result-mid">
+								<!--24772-->
+								49.50
+							</td>
+																								<td id="24773" class="slot-result slot-result-over">
+								<!--24773-->
+								77.51
+							</td>
+																								<td id="24774" class="slot-result slot-result-under">
+								<!--24774-->
+								20.75
+							</td>
+																								<td id="24775" class="slot-result slot-result-over">
+								<!--24775-->
+								92.13
+							</td>
+																								<td id="24776" class="slot-result slot-result-mid">
+								<!--24776-->
+								47.77
+							</td>
+																								<td id="24777" class="slot-result slot-result-over">
+								<!--24777-->
+								79.76
+							</td>
+																								<td id="24778" class="slot-result slot-result-under">
+								<!--24778-->
+								36.83
+							</td>
+																								<td id="24779" class="slot-result slot-result-under">
+								<!--24779-->
+								4.57
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 01:54:00</td>
+					<td>2478_</td>
+																							<td id="24780" class="slot-result slot-result-over">
+								<!--24780-->
+								78.18
+							</td>
+																								<td id="24781" class="slot-result slot-result-over">
+								<!--24781-->
+								59.17
+							</td>
+																								<td id="24782" class="slot-result slot-result-under">
+								<!--24782-->
+								21.62
+							</td>
+																								<td id="24783" class="slot-result slot-result-under">
+								<!--24783-->
+								20.42
+							</td>
+																								<td id="24784" class="slot-result slot-result-over">
+								<!--24784-->
+								65.43
+							</td>
+																								<td id="24785" class="slot-result slot-result-over">
+								<!--24785-->
+								89.84
+							</td>
+																								<td id="24786" class="slot-result slot-result-under">
+								<!--24786-->
+								14.74
+							</td>
+																								<td id="24787" class="slot-result slot-result-under">
+								<!--24787-->
+								44.52
+							</td>
+																								<td id="24788" class="slot-result slot-result-over">
+								<!--24788-->
+								57.11
+							</td>
+																								<td id="24789" class="slot-result slot-result-under">
+								<!--24789-->
+								9.12
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:00:00</td>
+					<td>2479_</td>
+																							<td id="24790" class="slot-result slot-result-over">
+								<!--24790-->
+								68.91
+							</td>
+																								<td id="24791" class="slot-result slot-result-over">
+								<!--24791-->
+								95.15
+							</td>
+																								<td id="24792" class="slot-result slot-result-over">
+								<!--24792-->
+								55.81
+							</td>
+																								<td id="24793" class="slot-result slot-result-under">
+								<!--24793-->
+								19.47
+							</td>
+																								<td id="24794" class="slot-result slot-result-mid">
+								<!--24794-->
+								50.73
+							</td>
+																								<td id="24795" class="slot-result slot-result-over">
+								<!--24795-->
+								91.90
+							</td>
+																								<td id="24796" class="slot-result slot-result-under">
+								<!--24796-->
+								34.29
+							</td>
+																								<td id="24797" class="slot-result slot-result-under">
+								<!--24797-->
+								19.53
+							</td>
+																								<td id="24798" class="slot-result slot-result-over">
+								<!--24798-->
+								97.79
+							</td>
+																								<td id="24799" class="slot-result slot-result-under">
+								<!--24799-->
+								43.85
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:06:00</td>
+					<td>2480_</td>
+																							<td id="24800" class="slot-result slot-result-over">
+								<!--24800-->
+								87.43
+							</td>
+																								<td id="24801" class="slot-result slot-result-over">
+								<!--24801-->
+								61.48
+							</td>
+																								<td id="24802" class="slot-result slot-result-over">
+								<!--24802-->
+								84.49
+							</td>
+																								<td id="24803" class="slot-result slot-result-under">
+								<!--24803-->
+								5.96
+							</td>
+																								<td id="24804" class="slot-result slot-result-over">
+								<!--24804-->
+								82.95
+							</td>
+																								<td id="24805" class="slot-result slot-result-over">
+								<!--24805-->
+								80.96
+							</td>
+																								<td id="24806" class="slot-result slot-result-over">
+								<!--24806-->
+								82.25
+							</td>
+																								<td id="24807" class="slot-result slot-result-under">
+								<!--24807-->
+								22.63
+							</td>
+																								<td id="24808" class="slot-result slot-result-under">
+								<!--24808-->
+								32.40
+							</td>
+																								<td id="24809" class="slot-result slot-result-over">
+								<!--24809-->
+								79.58
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:12:00</td>
+					<td>2481_</td>
+																							<td id="24810" class="slot-result slot-result-over">
+								<!--24810-->
+								76.73
+							</td>
+																								<td id="24811" class="slot-result slot-result-over">
+								<!--24811-->
+								59.73
+							</td>
+																								<td id="24812" class="slot-result slot-result-over">
+								<!--24812-->
+								63.50
+							</td>
+																								<td id="24813" class="slot-result slot-result-over">
+								<!--24813-->
+								64.72
+							</td>
+																								<td id="24814" class="slot-result slot-result-under">
+								<!--24814-->
+								24.48
+							</td>
+																								<td id="24815" class="slot-result slot-result-under">
+								<!--24815-->
+								31.91
+							</td>
+																								<td id="24816" class="slot-result slot-result-under">
+								<!--24816-->
+								20.16
+							</td>
+																								<td id="24817" class="slot-result slot-result-under">
+								<!--24817-->
+								35.59
+							</td>
+																								<td id="24818" class="slot-result slot-result-over">
+								<!--24818-->
+								64.51
+							</td>
+																								<td id="24819" class="slot-result slot-result-under">
+								<!--24819-->
+								19.58
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:18:00</td>
+					<td>2482_</td>
+																							<td id="24820" class="slot-result slot-result-over">
+								<!--24820-->
+								55.40
+							</td>
+																								<td id="24821" class="slot-result slot-result-under">
+								<!--24821-->
+								8.39
+							</td>
+																								<td id="24822" class="slot-result slot-result-over">
+								<!--24822-->
+								99.64
+							</td>
+																								<td id="24823" class="slot-result slot-result-over">
+								<!--24823-->
+								58.48
+							</td>
+																								<td id="24824" class="slot-result slot-result-under">
+								<!--24824-->
+								30.97
+							</td>
+																								<td id="24825" class="slot-result slot-result-over">
+								<!--24825-->
+								75.72
+							</td>
+																								<td id="24826" class="slot-result slot-result-under">
+								<!--24826-->
+								20.04
+							</td>
+																								<td id="24827" class="slot-result slot-result-under">
+								<!--24827-->
+								18.58
+							</td>
+																								<td id="24828" class="slot-result slot-result-over">
+								<!--24828-->
+								89.26
+							</td>
+																								<td id="24829" class="slot-result slot-result-under">
+								<!--24829-->
+								36.83
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:24:00</td>
+					<td>2483_</td>
+																							<td id="24830" class="slot-result slot-result-under">
+								<!--24830-->
+								32.73
+							</td>
+																								<td id="24831" class="slot-result slot-result-over">
+								<!--24831-->
+								92.29
+							</td>
+																								<td id="24832" class="slot-result slot-result-under">
+								<!--24832-->
+								24.71
+							</td>
+																								<td id="24833" class="slot-result slot-result-over">
+								<!--24833-->
+								76.17
+							</td>
+																								<td id="24834" class="slot-result slot-result-over">
+								<!--24834-->
+								86.66
+							</td>
+																								<td id="24835" class="slot-result slot-result-under">
+								<!--24835-->
+								8.06
+							</td>
+																								<td id="24836" class="slot-result slot-result-over">
+								<!--24836-->
+								58.09
+							</td>
+																								<td id="24837" class="slot-result slot-result-under">
+								<!--24837-->
+								27.04
+							</td>
+																								<td id="24838" class="slot-result slot-result-wildcard">
+								<!--24838-->
+								0.81
+							</td>
+																								<td id="24839" class="slot-result slot-result-over">
+								<!--24839-->
+								81.44
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:30:00</td>
+					<td>2484_</td>
+																							<td id="24840" class="slot-result slot-result-under">
+								<!--24840-->
+								4.68
+							</td>
+																								<td id="24841" class="slot-result slot-result-under">
+								<!--24841-->
+								10.26
+							</td>
+																								<td id="24842" class="slot-result slot-result-under">
+								<!--24842-->
+								16.88
+							</td>
+																								<td id="24843" class="slot-result slot-result-over">
+								<!--24843-->
+								65.90
+							</td>
+																								<td id="24844" class="slot-result slot-result-under">
+								<!--24844-->
+								18.92
+							</td>
+																								<td id="24845" class="slot-result slot-result-under">
+								<!--24845-->
+								23.44
+							</td>
+																								<td id="24846" class="slot-result slot-result-under">
+								<!--24846-->
+								17.06
+							</td>
+																								<td id="24847" class="slot-result slot-result-over">
+								<!--24847-->
+								59.66
+							</td>
+																								<td id="24848" class="slot-result slot-result-over">
+								<!--24848-->
+								55.86
+							</td>
+																								<td id="24849" class="slot-result slot-result-over">
+								<!--24849-->
+								62.33
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:36:00</td>
+					<td>2485_</td>
+																							<td id="24850" class="slot-result slot-result-under">
+								<!--24850-->
+								27.86
+							</td>
+																								<td id="24851" class="slot-result slot-result-over">
+								<!--24851-->
+								57.30
+							</td>
+																								<td id="24852" class="slot-result slot-result-over">
+								<!--24852-->
+								87.65
+							</td>
+																								<td id="24853" class="slot-result slot-result-under">
+								<!--24853-->
+								9.71
+							</td>
+																								<td id="24854" class="slot-result slot-result-under">
+								<!--24854-->
+								17.94
+							</td>
+																								<td id="24855" class="slot-result slot-result-under">
+								<!--24855-->
+								5.05
+							</td>
+																								<td id="24856" class="slot-result slot-result-under">
+								<!--24856-->
+								22.91
+							</td>
+																								<td id="24857" class="slot-result slot-result-under">
+								<!--24857-->
+								36.62
+							</td>
+																								<td id="24858" class="slot-result slot-result-over">
+								<!--24858-->
+								83.48
+							</td>
+																								<td id="24859" class="slot-result slot-result-over">
+								<!--24859-->
+								56.87
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:42:00</td>
+					<td>2486_</td>
+																							<td id="24860" class="slot-result slot-result-over">
+								<!--24860-->
+								68.07
+							</td>
+																								<td id="24861" class="slot-result slot-result-under">
+								<!--24861-->
+								28.27
+							</td>
+																								<td id="24862" class="slot-result slot-result-under">
+								<!--24862-->
+								23.72
+							</td>
+																								<td id="24863" class="slot-result slot-result-under">
+								<!--24863-->
+								26.03
+							</td>
+																								<td id="24864" class="slot-result slot-result-under">
+								<!--24864-->
+								18.09
+							</td>
+																								<td id="24865" class="slot-result slot-result-under">
+								<!--24865-->
+								32.41
+							</td>
+																								<td id="24866" class="slot-result slot-result-under">
+								<!--24866-->
+								29.60
+							</td>
+																								<td id="24867" class="slot-result slot-result-over">
+								<!--24867-->
+								61.88
+							</td>
+																								<td id="24868" class="slot-result slot-result-under">
+								<!--24868-->
+								38.23
+							</td>
+																								<td id="24869" class="slot-result slot-result-under">
+								<!--24869-->
+								10.03
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:48:00</td>
+					<td>2487_</td>
+																							<td id="24870" class="slot-result slot-result-under">
+								<!--24870-->
+								18.84
+							</td>
+																								<td id="24871" class="slot-result slot-result-under">
+								<!--24871-->
+								3.98
+							</td>
+																								<td id="24872" class="slot-result slot-result-over">
+								<!--24872-->
+								94.95
+							</td>
+																								<td id="24873" class="slot-result slot-result-over">
+								<!--24873-->
+								57.45
+							</td>
+																								<td id="24874" class="slot-result slot-result-under">
+								<!--24874-->
+								37.33
+							</td>
+																								<td id="24875" class="slot-result slot-result-under">
+								<!--24875-->
+								16.30
+							</td>
+																								<td id="24876" class="slot-result slot-result-mid">
+								<!--24876-->
+								51.06
+							</td>
+																								<td id="24877" class="slot-result slot-result-over">
+								<!--24877-->
+								56.70
+							</td>
+																								<td id="24878" class="slot-result slot-result-over">
+								<!--24878-->
+								99.25
+							</td>
+																								<td id="24879" class="slot-result slot-result-under">
+								<!--24879-->
+								33.41
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 02:54:00</td>
+					<td>2488_</td>
+																							<td id="24880" class="slot-result slot-result-over">
+								<!--24880-->
+								71.49
+							</td>
+																								<td id="24881" class="slot-result slot-result-over">
+								<!--24881-->
+								62.98
+							</td>
+																								<td id="24882" class="slot-result slot-result-over">
+								<!--24882-->
+								97.40
+							</td>
+																								<td id="24883" class="slot-result slot-result-over">
+								<!--24883-->
+								96.81
+							</td>
+																								<td id="24884" class="slot-result slot-result-under">
+								<!--24884-->
+								40.47
+							</td>
+																								<td id="24885" class="slot-result slot-result-under">
+								<!--24885-->
+								32.88
+							</td>
+																								<td id="24886" class="slot-result slot-result-over">
+								<!--24886-->
+								77.48
+							</td>
+																								<td id="24887" class="slot-result slot-result-over">
+								<!--24887-->
+								72.27
+							</td>
+																								<td id="24888" class="slot-result slot-result-over">
+								<!--24888-->
+								69.24
+							</td>
+																								<td id="24889" class="slot-result slot-result-over">
+								<!--24889-->
+								92.47
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 03:00:00</td>
+					<td>2489_</td>
+																							<td id="24890" class="slot-result slot-result-under">
+								<!--24890-->
+								37.21
+							</td>
+																								<td id="24891" class="slot-result slot-result-under">
+								<!--24891-->
+								46.23
+							</td>
+																								<td id="24892" class="slot-result slot-result-over">
+								<!--24892-->
+								55.25
+							</td>
+																								<td id="24893" class="slot-result slot-result-under">
+								<!--24893-->
+								39.85
+							</td>
+																								<td id="24894" class="slot-result slot-result-over">
+								<!--24894-->
+								88.59
+							</td>
+																								<td id="24895" class="slot-result slot-result-under">
+								<!--24895-->
+								2.55
+							</td>
+																								<td id="24896" class="slot-result slot-result-under">
+								<!--24896-->
+								39.33
+							</td>
+																								<td id="24897" class="slot-result slot-result-under">
+								<!--24897-->
+								22.74
+							</td>
+																								<td id="24898" class="slot-result slot-result-under">
+								<!--24898-->
+								21.41
+							</td>
+																								<td id="24899" class="slot-result slot-result-over">
+								<!--24899-->
+								64.05
+							</td>
+															</tr>
+								<tr>
+					<td>2016-06-11 03:06:00</td>
+					<td>2490_</td>
+																							<td id="24900" class="slot-result slot-result-over">
+								<!--24900-->
+								55.81
+							</td>
+																																																																																																																		</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+
+	<div id="footer">
+	<a href="#" id="footer-logo"></a>
+
+	<div id="footer-links">
+					<a href="/">Home</a>
+				<a href="http://csgodiamonds.com/fair">Provably Fair</a>
+		<a href="http://csgodiamonds.com/terms">Terms of Service</a>
+		<a href="http://csgodiamonds.com/faq">FAQ</a>
+		<a href="http://csgodiamonds.com/contact">Contact</a>
+	</div>
+</div></div>
+
+
+	
+	</body>
+
+</html>
